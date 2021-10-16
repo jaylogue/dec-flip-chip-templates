@@ -1,0 +1,28 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN-DEC-DOUBLE
+D DEC FLIP CHIP DOUBLE-HEIGHT Edge Connector
+F http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf#page=24
+$ENDCMP
+#
+$CMP CONN-DEC-HEX
+D DEC FLIP CHIP HEX-HEIGHT Edge Connector
+F http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf#page=24
+$ENDCMP
+#
+$CMP CONN-DEC-QUAD
+D DEC FLIP CHIP QUAD-HEIGHT Edge Connector
+F http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf#page=24
+$ENDCMP
+#
+$CMP CONN-DEC-QUAD-CF
+D DEC FLIP CHIP QUAD-HEIGHT Edge Connector, Rows C-F
+F http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf#page=24
+$ENDCMP
+#
+$CMP CONN-DEC-SINGLE
+D DEC FLIP CHIP SINGLE-HEIGHT Edge Connector
+F http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf#page=24
+$ENDCMP
+#
+#End Doc Library
