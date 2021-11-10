@@ -52,3 +52,19 @@ examples.
 
 The dec-flip-chip-templates project, including the schematics, PCB layouts, all associated documentation
 and this README, are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  The file `LICENSE.TXT` contains a copy these provisions.
+
+## Other FLIP CHIP Designs
+
+A few other retrocomputing enthusiasts have also created CAD templates and layouts for various DEC FLIP CHIP modules.
+These may be of interest to people who prefer using programs other than KiCAD (Eagle, for example), 
+or maybe just prefer a different approach than mine.  Here are a few that I've found in my wonderings:
+
+* __Vincent Slyngstad's__ [PDP-8 Stuff](https://so-much-stuff.com/pdp8/index.php) &#8211; An amazing collection
+of PDP-8 related information; check out the [CAD](https://so-much-stuff.com/pdp8/cad/cad.php) page, which
+contains the `dec-con` Eagle library and a directory of PCB designs which mimic various original DEC boards.
+
+* __Malcolm Macleod's__ [Adventures with vintage computers](https://avitech.com.au/) &#8211; Malcolm's site has
+a long list of super-useful articles and blogs on various DEC retrocomputing topics. See his
+[DEC Flip Chip KiCad Template](https://avitech.com.au/?page_id=3319) for a different take on building
+FLIP CHIP modules with KiCAD.
+
