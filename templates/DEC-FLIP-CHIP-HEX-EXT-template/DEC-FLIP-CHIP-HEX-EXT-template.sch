@@ -16,12 +16,12 @@ $EndDescr
 $Comp
 L DEC-FLIP-CHIP:CONN-DEC-HEX J?
 U 1 1 61699105
-P 11025 6225
-F 0 "J?" H 11023 10340 50  0000 C CNN
-F 1 "CONN-DEC-HEX" H 11023 10249 50  0000 C CNN
-F 2 "DEC-FLIP-CHIP:CONN-DEC-HEX" H 10825 10225 60  0001 C CNN
-F 3 "http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf#page=24" H 10825 10225 60  0001 C CNN
-	1    11025 6225
+P 11675 2800
+F 0 "J?" H 11675 3150 50  0000 C CNN
+F 1 "CONN-DEC-HEX" H 11675 3025 50  0000 C CNN
+F 2 "DEC-FLIP-CHIP:CONN-DEC-HEX" H 11475 6800 60  0001 C CNN
+F 3 "http://www.bitsavers.org/pdf/dec/handbooks/Digital_Logic_Handbook_1975-76.pdf#page=24" H 11475 6800 60  0001 C CNN
+	1    11675 2800
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
